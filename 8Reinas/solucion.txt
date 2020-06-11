@@ -1,0 +1,9 @@
+solucion 4*4
+
+Numero de soluciones7
+Solucion N 1
+R * * * 
+* R * * 
+* * R * 
+* * * R 
+
